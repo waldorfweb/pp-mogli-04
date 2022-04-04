@@ -1,10 +1,10 @@
 <?php
 
-namespace Glomer4\Widgets\Footer;
+namespace Mogli4\Widgets\Footer;
 
 use Ceres\Widgets\Helper\BaseWidget;
 
 class FooterNewsletterWidget extends BaseWidget
 {
-    protected $template = "Glomer4::Widgets.Footer.FooterNewsletterWidget";
+    protected $template = "Mogli4::Widgets.Footer.FooterNewsletterWidget";
 }

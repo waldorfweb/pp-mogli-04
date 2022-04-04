@@ -1,10 +1,10 @@
 {
-    "name": "Glomer4",
+    "name": "Mogli4",
     "license": "AGPL-3.0",
     "version": "5.0.45",
     "repository": {
         "type": "git",
-        "url": "https://github.com/waldorfweb/pp-glomer-04.git"
+        "url": "https://github.com/waldorfweb/pp-mogli-04.git"
     },
     "scripts": {
         "start": "webpack --watch --progress",

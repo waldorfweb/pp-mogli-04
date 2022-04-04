@@ -1,11 +1,11 @@
 {
-    "identifier": "Glomer4::FooterLegalInformationWidget",
+    "identifier": "Mogli4::FooterLegalInformationWidget",
     "label": "Widget.legalInformationLabel",
     "previewImageURL": "/images/dia-widgets/footer-rechtlich.png",
     "type": "footer",
     "categories": ["dia"],
     "position": 1200,
-    "widgetClass": "Glomer4\\Widgets\\Footer\\FooterLegalInformationWidget",
+    "widgetClass": "Mogli4\\Widgets\\Footer\\FooterLegalInformationWidget",
     "settings": {
         "showCancellationRights": {
             "type": "checkbox",

@@ -1,11 +1,11 @@
 {
-    "identifier": "Glomer4::HeaderWidget",
+    "identifier": "Mogli4::HeaderWidget",
     "label": "Widget.Header",
     "previewImageURL": "/images/dia-widgets/header-navbar.png",
     "type": "header",
     "categories": ["dia"],
     "position": 0,
-    "widgetClass": "Glomer4\\Widgets\\Header\\HeaderWidget",
+    "widgetClass": "Mogli4\\Widgets\\Header\\HeaderWidget",
     "settings": {
         "enableLanguageSelect": {
             "type": "checkbox",

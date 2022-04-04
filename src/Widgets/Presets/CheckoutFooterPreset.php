@@ -1,6 +1,6 @@
 <?php
 
-namespace Glomer4\Widgets\Presets;
+namespace Mogli4\Widgets\Presets;
 
 use Ceres\Config\CeresConfig;
 use Ceres\Widgets\Helper\PresetHelper;
@@ -20,7 +20,7 @@ class CheckoutFooterPreset implements ContentPreset
         $preset = pluginApp(PresetHelper::class);
 
 
-        $preset->createWidget("Glomer4::FooterListWidget")
+        $preset->createWidget("Mogli4::FooterListWidget")
                ->withSetting("displayInline", true)
                ->withSetting("entries", [
                    [
@@ -47,7 +47,7 @@ class CheckoutFooterPreset implements ContentPreset
                ]);
 
 
-        $preset->createWidget("Glomer4::ImageListWidget")
+        $preset->createWidget("Mogli4::ImageListWidget")
                ->withSetting("entries", []);
 
         return $preset->toArray();

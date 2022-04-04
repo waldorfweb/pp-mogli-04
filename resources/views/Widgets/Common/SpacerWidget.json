@@ -1,11 +1,11 @@
 {
-    "identifier": "Glomer4::SpacerWidget",
+    "identifier": "Mogli4::SpacerWidget",
     "label": "Widget.spacerLabel",
     "previewImageURL": "/images/dia-widgets/spacer.png",
     "type": "static",
     "categories": ["dia"],
     "position": 400,
-    "widgetClass": "Glomer4\\Widgets\\Common\\SpacerWidget",
+    "widgetClass": "Mogli4\\Widgets\\Common\\SpacerWidget",
     "settings": {
         "size": {
             "type": "select",

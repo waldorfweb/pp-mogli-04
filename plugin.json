@@ -1,21 +1,21 @@
 {
     "version": "5.0.45",
     "license": "AGPL-3.0",
-    "name": "Glomer4",
+    "name": "Mogli4",
     "marketplaceName": {
-        "de": "Glomer4",
-        "en": "Glomer4"
+        "de": "Mogli4",
+        "en": "Mogli4"
     },
     "pluginIcon": "icon_plugin_xs.png",
     "authorIcon": "icon_author_xs.png",
     "email": "",
     "phone": "",
-    "description": "Waldorf theme for Ceres.",
+    "description": "Mogli theme for Ceres.",
     "shortDescription": {
-        "de": "Glomer theme 04 für LTS.",
-        "en": "Glomer theme 04 for LTS."
+        "de": "Mogli theme 04 für LTS.",
+        "en": "Mogli theme 04 for LTS."
     },
-    "namespace": "Glomer4",
+    "namespace": "Mogli4",
     "author": "Universnatur GmbH",
     "keywords": [
         "plentymarkets",
@@ -37,5 +37,5 @@
         "name": "Head: Google Tag Manager",
         "description": "Add data layer before google tag manager"
     }],
-    "serviceProvider": "Glomer4\\Providers\\ThemeServiceProvider"
+    "serviceProvider": "Mogli4\\Providers\\ThemeServiceProvider"
 }
