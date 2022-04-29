@@ -31,11 +31,11 @@ $cyan:                      #17a2b8 !default;
 
 // Legacy: Do not remove!
 // This variables are filled with the values from the plugin config
-$brand-primary:             #3f4785; 
-$brand-secondary:           $gray-600 !default;
-$brand-success:             $green !default;
-$brand-info:                $cyan !default;
-$brand-warning:             $yellow !default;
+$brand-primary:             #20806E; 
+$brand-secondary:           #FAB602 !default;
+$brand-success:             #EC6623 !default;
+$brand-info:                #DC9AA5 !default;
+$brand-warning:             #DB0E1F !default;
 $brand-danger:              $red !default;
 
 @function check-color($color, $fallback) {
